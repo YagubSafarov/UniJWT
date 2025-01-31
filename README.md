@@ -5,7 +5,7 @@ A simple utility for encoding and decoding JWT tokens in Unity. Supports HMAC al
 ## Features
 
 - Encode and decode JWT tokens.
-- Supports HMAC algorithms (`HS256`, `HS384`, `HS512`).
+- Supports HMAC algorithms (`HS256`).
 - Custom algorithms can be added.
 - Provides error handling for invalid tokens and signatures.
 
