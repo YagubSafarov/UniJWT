@@ -14,7 +14,7 @@ A simple utility for encoding and decoding JWT tokens in Unity. Supports HMAC al
 Add the package to your Unity project using Unity Package Manager (UPM).
    - Go to `Window` > `Package Manager`.
    - Click the `+` button and select **Add package from git URL**.
-   - Enter the URL: `https://github.com/YagubSafarov/UniJWT`
+   - Enter the URL: `https://github.com/YagubSafarov/UniJWT.git`
 
 ## Usage
 
